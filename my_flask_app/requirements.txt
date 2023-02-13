@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Feb 12 19:48:24 2023
+
+@author: ricor
+"""
+
+
+# requirements.txt
+Flask==2.2.2
