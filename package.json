@@ -1,0 +1,10 @@
+{
+  "name": "hello_flask",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "flask run"
+  },
+  "dependencies": {
+    "flask": "^1.1.2"
+  }
+}
